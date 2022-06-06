@@ -1,6 +1,7 @@
 # JSOLDA
 
 The datasets used in the manuscript can be downloaded from this reposity.
+The source code will be published later...
 
 ## COIL100
 COIL100 dataset consists of 7,200 images including 100 categories of objects. In this experiment, the images were converted to gray level with size of 32×32. 
