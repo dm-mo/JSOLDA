@@ -26,6 +26,7 @@ The CMU PIE face database [4] contains 68 individuals with 41,368 face images as
 
 
 Reference list:
+
 [1] S. Roweis, “USPS Handwritten Digit Dataset [Online].” p. Available: http://www.cs.nyu.edu/~roweis/data.html.
 
 [2] S. Tian, S. Lu, and B. Su, “Scene text recognition using co-occurrence of histogram of oriented gradients,” 2013 12th Int. Conf. Doc. Anal. Recognit., pp. 912–916, 2013.
